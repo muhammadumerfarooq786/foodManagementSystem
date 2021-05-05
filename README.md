@@ -8,3 +8,5 @@ Kitchen section get update if any new order come
 Stock section get automatically adjusted ad per orders  
 Management section can also update the stock  
 
+You can simply download gthe git repository or clone it and use the code in yout qt framework
+
