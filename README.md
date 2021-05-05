@@ -1,4 +1,4 @@
-# foodManagementSystem  
+# Food Management System  
 The Whole code is written in qt framework you can use the code and replace the images used in the code with your own images
 
 **Basic Functionalities**  
